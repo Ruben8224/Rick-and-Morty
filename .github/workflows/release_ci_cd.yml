@@ -32,7 +32,7 @@ jobs:
       - name: show dir, .env file
         run: |
           ls -la build
-          
+          #a
       - name: download, run httpd image, container name serving_base
         run: |
           docker run -d --name serving_base httpd
