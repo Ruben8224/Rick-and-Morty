@@ -1,5 +1,4 @@
 import "./App.css";
-import imageRickMorty from "./img/morty-rick.png";
 import { useState } from "react";
 import Characters from "./components/Characters";
 
